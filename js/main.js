@@ -49,8 +49,8 @@ particlesJS("particles-js", {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Srijan De | Portfolio";
-        $("#favicon").attr("href","/images/srijan.jpg");
+        document.title = "nvk0x | Portfolio";
+        $("#favicon").attr("href","/images/icon.jpg");
     }
     else {
         document.title = "Come Back To Portfolio";
